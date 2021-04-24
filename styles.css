@@ -1,7 +1,20 @@
-.nav-Link {
-    color:black;
+body {
+    background-image: linear-gradient(#d0af84, white);
+}
+
+.navbar {
+    background-color: #bd9354;
 }
 
 .jumbotron {
     background-color: #966c3b;
+    margin: 0;
+    padding: 30px;
+    color: white;
+}
+
+#navLink {
+    background-color: black;
+    margin: 0;
+    padding: 0;
 }
